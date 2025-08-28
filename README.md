@@ -4,26 +4,9 @@ A simple and modern Unit Converter built with Flutter.
 This app allows you to convert between different length units with a clean UI and fast performance.
 
 🚀 Features
-
 🌐 Convert between popular length units:
 
-Meter (base unit)
-
-Millimeter
-
-Centimeter
-
-Kilometer
-
-Inch
-
-Feet
-
-Yard
-
-Mile
-
-Nautical Mile
+Meter (base unit),Millimeter,Centimeter,Kilometer,Inch,Feet,Yard,Mile,Nautical Mile
 
 🎨 Modern and responsive UI
 

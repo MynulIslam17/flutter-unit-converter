@@ -1,16 +1,38 @@
-# unit_converter
+📏 Unit Converter App
 
-A new Flutter project.
+A simple and modern Unit Converter built with Flutter.
+This app allows you to convert between different length units with a clean UI and fast performance.
 
-## Getting Started
+🚀 Features
 
-This project is a starting point for a Flutter application.
+🌐 Convert between popular length units:
 
-A few resources to get you started if this is your first Flutter project:
+Meter (base unit)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Millimeter
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Centimeter
+
+Kilometer
+
+Inch
+
+Feet
+
+Yard
+
+Mile
+
+Nautical Mile
+
+🎨 Modern and responsive UI
+
+⚡ Real-time conversion
+
+🌓 (Optional) Dark mode support
+
+##  Screenshots
+
+![Unit Converter Modern UI](https://raw.githubusercontent.com/MynulIslam17/flutter-unit-converter/refs/heads/main/Untitled%20design%282%29.png)
+
+
